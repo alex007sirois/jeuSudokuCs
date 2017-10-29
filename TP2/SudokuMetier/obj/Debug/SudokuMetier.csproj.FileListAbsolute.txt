@@ -1,0 +1,13 @@
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.dll
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.pdb
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.dll
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.pdb
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuMetier\bin\Debug\SudokuMetier.dll
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuMetier\bin\Debug\SudokuMetier.pdb
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuMetier\obj\Debug\SudokuMetier.csprojResolveAssemblyReference.cache
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuMetier\obj\Debug\SudokuMetier.dll
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuMetier\obj\Debug\SudokuMetier.pdb
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuMetier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuMetier\bin\Debug\SudokuPersistence.dll
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuMetier\bin\Debug\SudokuPersistence.pdb

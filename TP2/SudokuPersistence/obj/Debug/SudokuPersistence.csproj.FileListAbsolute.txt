@@ -1,0 +1,6 @@
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuPersistence\obj\Debug\SudokuPersistence.csprojResolveAssemblyReference.cache
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuPersistence\bin\Debug\SudokuPersistence.dll
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuPersistence\bin\Debug\SudokuPersistence.pdb
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuPersistence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuPersistence\obj\Debug\SudokuPersistence.dll
+C:\Users\1531831\Documents\Visual Studio 2013\Projects\TP2\SudokuPersistence\obj\Debug\SudokuPersistence.pdb
